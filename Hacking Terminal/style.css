@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(2, 189, 2);
+}
+.box {
+  font-family: "Anonymous Pro", monospace;
+  font-weight: 400;
+  font-size: 25px;
+  font-style: normal;
+  display: flex;
+  gap: 20px;
+  margin-left: 15px;
+  margin-top: 20px;
+  flex-direction: column;
+}
